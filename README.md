@@ -1,4 +1,3 @@
 <u># learning-html</u>
 <br>
-this is my second repository<br>
-why katappa kills babubali?
+this is a html repository, i`m learning html and it`s a non credit subject.
